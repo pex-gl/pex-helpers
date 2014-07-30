@@ -4,3 +4,4 @@ module.exports.FaceHelper = require('./lib/FaceHelper');
 module.exports.VertexNormalHelper = require('./lib/VertexNormalHelper');
 module.exports.FaceNormalHelper = require('./lib/FaceNormalHelper');
 module.exports.AxisHelper = require('./lib/AxisHelper');
+module.exports.OctreeHelper = require('./lib/OctreeHelper');
