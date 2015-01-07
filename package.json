@@ -1,6 +1,6 @@
 {
   "name": "pex-helpers",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Debug mesh generators for the pex library",
   "homepage": "https://github.com/vorg/pex-helpers.git",
   "keywords": [
@@ -16,7 +16,7 @@
   "main": "index.js",
   "devDependencies": {},
   "dependencies": {
-    "merge": "1.1.3"
+    "merge": "~1.2.0"
   },
   "repository": {
     "type": "git",
