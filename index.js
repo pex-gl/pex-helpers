@@ -5,3 +5,4 @@ module.exports.VertexNormalHelper = require('./lib/VertexNormalHelper');
 module.exports.FaceNormalHelper = require('./lib/FaceNormalHelper');
 module.exports.AxisHelper = require('./lib/AxisHelper');
 module.exports.OctreeHelper = require('./lib/OctreeHelper');
+module.exports.PerspectiveCameraHelper = require('./lib/PerspectiveCameraHelper');
